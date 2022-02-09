@@ -42,5 +42,12 @@ public class DBContext {
         private final String instance="";//LEAVE THIS ONE EMPTY IF YOUR SQL IS A SINGLE INSTANCE
         private final String userID = "sa";
         private final String password = "sa";
+        
+         private final String serverName = "localhost";
+        private final String dbName = "wish";
+        private final String portNumber = "1433";
+        private final String instance="";//LEAVE THIS ONE EMPTY IF YOUR SQL IS A SINGLE INSTANCE
+        private final String userID = "sa";
+        private final String password = "sa";
 }
  
